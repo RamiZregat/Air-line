@@ -55,11 +55,13 @@ padding-left:90px;
     position: relative;bottom:326px;
   }
   #s3{
-    padding-left:620px;
-    position: relative;bottom:210px;
+  padding-left:620px;
+    position: relative;bottom:180px;
+
   }
   footer{
     background-color:rgba(42, 104, 104, 0.192);
     padding-left:30px;
+    text-align: center;
   }
 
